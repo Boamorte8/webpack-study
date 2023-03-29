@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"sourceMap": true,
+		"module": "ESNext",
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "Node"
+	}
+}
